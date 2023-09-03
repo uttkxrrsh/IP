@@ -1,7 +1,7 @@
 # INFLATION DICTIONARY
 from nltk.stem import PorterStemmer
 
-ConsumerPricesInflation_Hawkish = ["accelerated", "boosted", "elevated", "escalated", "high", "hightened", "increased", "jumped", "pickup", "rised", "rising", "rose", "runup", "run-up", "strongness", "surged", "upped"]
+ConsumerPricesInflation_Hawkish = ["accelerated", "boosted", "elevated", "escalated", "high", "hightened", "increased", "jumped", "pickup", "risen", "rising", "rose", "runup", "run-up", "strongness", "surged", "upped"]
 ConsumerPricesInflation_Dovish = ["decelarated", "declined", "decreased", "downed", "dropped", "fallen", "falling", "fell", "lowest", "lowed", "lowered", "muted", "reduced", "slowed", "stable", "subdued", "weak", "weakened", "contained"]
 
 InflationPressure_Hawkish = ["accelerated", "boosted", "building", "elevated", "emerged", "great", "greatening", "heighten", "highed", "increased", "intensified", "mounted", "mountained", "pickup", "rise", "rose","rising","stoked", "stokened", "sustained"]
@@ -14,7 +14,7 @@ ConsumerSpending_Hawkish = ["accelerated", "edged up", "expanded", "increased", 
 ConsumerSpending_Dovish = ["contracted", "decelerated", "decreased", "dropped", "retrenched", "slowed", "slugged", "softened", "subdued"]
 
 # edged up, picked up, stepped up
-EconomicActivity_Hawkish = ["accelerated", "buoyant", "edged up", "expanded", "increased", "high", "hightened", "picked up", "pickup", "rised", "rose", "rising", "stepped up", "strenghthened", "strongness", "upside"]
+EconomicActivity_Hawkish = ["accelerated", "buoyant", "edged up", "expanded", "increased", "high", "hightened", "picked up", "pickup", "risen", "rose", "rising", "stepped up", "strenghthened", "strongness", "upside"]
 EconomicActivity_Dovish = ["contracted", "curtailed", "decelerated", "declined", "decreased", "downside", "drop", "fallen", "falling", "fell", "lowest", "lowed", "lowered", "moderated", "slowed", "slugged","weak", "weakened"]
 
 ResourceUtilization_Hawkish = ["high", "hightened", "increased", "rise", "rising", "rose", "tight", "tightened"]
@@ -23,14 +23,14 @@ ResourceUtilization_Dovish = ["declined", "fallen", "falling", "fell", "loosened
 
 # EMPLOYMENT DICTIONARY
 # picked up, turned up
-Employment_Hawkish = ["expanded", "gained", "improved", "increased", "picked up", "pickup", "raised", "rised", "rising", "rose", "strengthened", "turned up"]
+Employment_Hawkish = ["expanded", "gained", "improved", "increased", "picked up", "pickup", "raised", "risen" "rising", "rose", "strengthened", "turned up"]
 Employment_Dovish = ["slowed", "declined", "reduced", "weak", "weakened", "deteriorated", "shrink", "shrinking", "shrank", "falling", "fallen", "fell", "drop", "contracted", "sluggish"]
 
 LaborMarket_Hawkish = ["strained", "tightened"]
 LaborMarket_Dovish = ["eased", "easing", "loosened", "loosening", "softened", "softening", "weakened", "weakening"]
 
 Unemployment_Hawkish = ["declined", "declining", "fallen", "falling", "fell", "lowest", "lowed", "lowered", "reduced"]
-Unemployment_Dovish = ["increased", "increasing", "rose", "rising", "rised", "high", "elevated"]
+Unemployment_Dovish = ["increased", "increasing", "rose", "rising", "risen", "high", "elevated"]
 
 
 # stem each list made in above cell
