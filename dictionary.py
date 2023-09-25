@@ -7,6 +7,8 @@ ConsumerPricesInflation_Dovish = ["decelarated", "declined", "decreased", "downe
 InflationPressure_Hawkish = ["accelerated", "boosted", "building", "elevated", "emerged", "great", "greatening", "heighten", "highed", "increased", "intensified", "mounted", "mountained", "pickup", "rise", "rose","rising","stoked", "stokened", "sustained"]
 InflationPressure_Dovish = ["abated", "contained", "dampened", "decelerated", "declined", "decreased", "diminish", "eased", "easy", "falling", "fallen", "fell", "lowest", "lowed", "lowered", "moderated", "receded", "reduced", "subdued", "tempered"]
 
+InterestRate_Hawkish = ["accelerated", "boosted", "elevated", "escalated", "high", "hightened", "increased", "jumped", "pickup", "rised", "rising", "rose", "runup", "run-up", "strongness", "surged", "upped", "increase"]
+InterestRate_Dovish = ["decelarated", "declined", "decreased", "downed", "dropped", "fallen", "falling", "fell", "lowest", "lowed", "lowered", "muted", "reduced", "slowed", "stable", "subdued", "weak", "weakened", "contained", "decrease"]
 
 # ECONOMIC ACTIVITY DICTIONARY
 # edged up, picked up
