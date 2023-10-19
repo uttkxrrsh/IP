@@ -1,0 +1,21 @@
+{
+    "high": {
+        "high infl": 0,
+        "liquid": 21,
+        "crude oil": 4,
+        "high": 2,
+        "normal monsoon": 0,
+        "capital expenditur": 8,
+        "infrastructur": 5
+    },
+    "low": {
+        "economic slowdown": 0,
+        "unemploy": 0,
+        "control": 0,
+        "manufactur": 1,
+        "monsoon": 1,
+        "servic": 4,
+        "econom": 8
+    },
+    "score": 0.48148148148148145
+}
