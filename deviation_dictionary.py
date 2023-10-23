@@ -1,3 +1,3 @@
-high_dict = ["high inflation","liquidity","crude oil","high","normal monsoon","expansionary fiscal policy","capital expenditure","infrastructure", 'rising inflation']
+high_dict = ["high inflation","liquidity","crude oil","high","normal monsoon","expansionary fiscal policy","capital expenditure","infrastructure", 'rising inflation', 'high cpi', 'high consumer price index', 'high prices', 'robust growth',"increasing growth",'falling yield']
 
-low_dict = ["economic slowdown","unemployment","controlling","manufacture","monsoon","service","economic", "increasing growth", "labour market", 'labor market']
+low_dict = ['inflation cool','price cool','weak industrial','falling','weak','stagnant consumption','stagnant',"economic slowdown","unemployment","controlling","manufacture","monsoon","service","economic", "labour market", 'labor market','rising yield']

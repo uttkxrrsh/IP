@@ -1,21 +1,37 @@
 {
     "high": {
-        "high infl": 0,
-        "liquid": 13,
+        "high inflation": 0,
+        "liquidity": 0,
         "crude oil": 0,
         "high": 4,
         "normal monsoon": 0,
-        "capital expenditur": 0,
-        "infrastructur": 1
+        "capital expenditure": 0,
+        "infrastructure": 0,
+        "rising inflation": 0,
+        "high cpi": 0,
+        "high prices": 0,
+        "robust growth": 0,
+        "increasing growth": 0,
+        "falling yield": 0
     },
     "low": {
+        "inflation cool": 0,
+        "price cool": 0,
+        "weak industrial": 0,
+        "falling": 0,
+        "weak": 0,
+        "stagnant consumption": 0,
+        "stagnant": 0,
         "economic slowdown": 1,
-        "unemploy": 1,
-        "control": 2,
-        "manufactur": 5,
+        "unemployment": 0,
+        "controlling": 0,
+        "manufacture": 0,
         "monsoon": 0,
-        "servic": 8,
-        "econom": 3
+        "service": 0,
+        "economic": 0,
+        "labour market": 0,
+        "labor market": 0,
+        "rising yield": 0
     },
-    "score": -0.05263157894736842
+    "score": 0.6
 }
